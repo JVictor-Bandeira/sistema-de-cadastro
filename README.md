@@ -3,5 +3,5 @@
 > status do projeto em desenvolvimento
 
 ```
-teste
+node app.js
 ```
